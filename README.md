@@ -1,3 +1,4 @@
-#NG-BEG
-Leariing Angular and Typescript
-First Project
+NG-BEG
+=======
+## Learning Angular and Typescript
+### First Project
